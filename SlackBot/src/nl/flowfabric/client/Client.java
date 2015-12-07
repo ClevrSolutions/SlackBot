@@ -10,7 +10,7 @@ import com.neovisionaries.ws.client.WebSocketException;
 
 public class Client {
 	private static RtmSession session;
-	private static final String TOKEN = "xoxb-15948592867-Ym9vVyXlLfRAfp63obevi2mO";
+	private static final String TOKEN = "INSERT TOKEN HERE";
 	
 	/*
 	 * Dit is waar het begint, vul hierboven een bot token in en dan gaan we!
